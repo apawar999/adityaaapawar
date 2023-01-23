@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Aditya
-- 👀 I’m interested in Robotics and AI
-- 🌱 I’m currently learning coding and figuring out it's applications
-- 💞️ I’m looking to learn coding and make fun projects for daily use
-- 📫 You can reach me at adityapawaar[at]gmail.com
-<!---
-adityaaapawar/adityaaapawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m Aditya
+- Love working at high growth startups looking to create impact and scale fast.
+- Have experience with Business and Product roles.
+- Currently learning the ropes of software development and web 3 basics.
+- Economics and Psychology intrige me, going on walks and reading about startups is what I do on most of the weekends.
+- You can reach me at iitbadityapawar[at]gmail.com
